@@ -14,10 +14,3 @@ Il progetto contiene tre esempi di database:
 - `database_grafo_neo4j_mobilita/`: database a grafo Neo4j per una rete di mobilità urbana.
 - `database_documentale_elasticsearch/`: database documentale Elasticsearch.
 
-## Tecnologie utilizzate
-
-- SQLite
-- Python
-- Neo4j
-- Elasticsearch
-- GitHub
